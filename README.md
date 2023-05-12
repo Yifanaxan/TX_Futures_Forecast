@@ -59,7 +59,7 @@
 &nbsp;
 &nbsp;
 
-## 按下 <span style="color: #00CED1;">**開始計算**</span> 顯示結果
+## 按下 <span style="color: #00CED1;">**_開始計算_**</span> 顯示結果
 &emsp;
 
 ![Alt text](images/demo_0512.png)
