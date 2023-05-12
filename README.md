@@ -85,7 +85,7 @@
 &emsp;
 &emsp;
 
-## **Authors**
+## **Author**
 
 
 
@@ -97,4 +97,7 @@
 
 * ### <span style="color: red;">Hat tip to anyone whose code was used</span>
 * ### <span style="color: red;">ChatGPT</span>
-* ### <span style="color: red;">etc...</span>
+&emsp;
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; most importantly
+* # <span style="color: red;">[**Mr. Robert Hsu**](https://github.com/roberthsu2003/)</span>
