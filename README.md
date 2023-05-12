@@ -10,7 +10,7 @@
 
 ## 這是一個預測期貨走勢的工具
 
-### 資料由2010年開始至今
+### 資料由2010年開始計算到目前
 &nbsp; 
 ***
 
@@ -91,7 +91,7 @@
 
 # <span style="color: #AFDCEC;">[**Yifan Lai**](https://github.com/Yifanaxan)</span>
 
-
+&emsp;
 
 ## **Acknowledgments**
 
