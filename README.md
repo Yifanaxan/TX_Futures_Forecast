@@ -4,8 +4,10 @@
 &nbsp; 
  
 
-# <p align="center"> <span style="color: #7FFFD4;">$ $ $ &nbsp; </span> </span> <span style="color: #00BFFF;"> **期貨多空趨勢預測** </span> <span style="color: #7FFFD4;">&nbsp; $ $ $ </span> 
+# <p align="center"> <span style="color: #7FFFD4;">💰 💰 💰 💰 💰 💰&nbsp; </span> </span> <span style="color: #00BFFF;"> **期貨多空趨勢預測** </span> <span style="color: #7FFFD4;">&nbsp; 💰 💰 💰 💰 💰 💰 </span> 
 </p>
+
+
 
 ## <p align="center"> 這是一個預測期貨走勢的工具 </p>
 ## <p align="center"> 可照著"今日應持有部位"交易 </p>
