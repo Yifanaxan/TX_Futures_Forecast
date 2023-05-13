@@ -96,7 +96,7 @@
 
 &emsp;
 
-## 💙**Acknowledgments**💙
+## 💛**Acknowledgments**💛
 
 * ### <span style="color: red;">Hat tip to anyone whose code was used</span>
 * ### <span style="color: red;">ChatGPT</span>
