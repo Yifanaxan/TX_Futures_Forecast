@@ -1,21 +1,20 @@
 
 
-&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;   &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;   ![Alt text](images/bullbear7.jpg)
 ![Alt text](images/resized_bullbear7.jpg)
 &nbsp; 
-# &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;  <span style="color: #7FFFD4;">$ $ $ &nbsp; </span> <span style="color: #00BFFF;"> **期貨多空趨勢預測** </span> <span style="color: #7FFFD4;">&nbsp; $ $ $</span>
-  &nbsp; 
+ 
 
 # <p align="center"> <span style="color: #7FFFD4;">$ $ $ &nbsp; </span> </span> <span style="color: #00BFFF;"> **期貨多空趨勢預測** </span> <span style="color: #7FFFD4;">&nbsp; $ $ $ </span> 
 </p>
 
-## 這是一個預測期貨走勢的工具
+## <p align="center"> 這是一個預測期貨走勢的工具 </p>
 
-#### 資料由2010年開始計算到目前
-&nbsp; 
+### <p align="center"> 資料由2010年開始計算到目前 </p>
+
+
 ***
 
-### <span style="color: #00CED1;">投資都有風險，交易前請詳閱公開說明書!!!</span>
+### <p align="center"><span style="color: #00CED1;">投資都有風險，交易前請詳閱公開說明書!!!</span></p>
 
 
 ***
