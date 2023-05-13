@@ -1,7 +1,7 @@
 
 
 &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;   &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;   ![Alt text](images/bullbear7.jpg)
-
+![Alt text](images/resized_bullbear7.jpg)
 &nbsp; 
 # &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;  <span style="color: #7FFFD4;">$ $ $ &nbsp; </span> <span style="color: #00BFFF;"> **期貨多空趨勢預測** </span> <span style="color: #7FFFD4;">&nbsp; $ $ $</span>
   &nbsp; 
