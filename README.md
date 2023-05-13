@@ -4,7 +4,7 @@
 &nbsp; 
  
 
-# <p align="center"> <span style="color: #7FFFD4;">💰 💰 💰 💰 💰 💰&nbsp; </span> </span> <span style="color: #00BFFF;"> **期貨多空趨勢預測** </span> <span style="color: #7FFFD4;">&nbsp; 💰 💰 💰 💰 💰 💰 </span> 
+# <p align="center"> <span style="color: #7FFFD4;">💰 👆 💰 👇 💰 &nbsp; </span> </span> <span style="color: #00BFFF;"> **期貨多空趨勢預測** </span> <span style="color: #7FFFD4;">&nbsp; 💰 👆 💰 👇 💰 </span> 
 </p>
 
 
