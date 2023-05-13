@@ -17,7 +17,7 @@
 
 ***
 
-### <p align="center"><span style="color: #00CED1;">投資都有風險，交易前請詳閱公開說明書!!!</span></p>
+### <p align="center"><span style="color: #00CED1;">😈 投資都有風險，交易前請詳閱公開說明書!!! 😈</span></p>
 
 
 ***
@@ -96,7 +96,7 @@
 
 &emsp;
 
-## **Acknowledgments**
+## ** 💙Acknowledgments💙**
 
 * ### <span style="color: red;">Hat tip to anyone whose code was used</span>
 * ### <span style="color: red;">ChatGPT</span>
