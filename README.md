@@ -8,6 +8,7 @@
 </p>
 
 ## <p align="center"> 這是一個預測期貨走勢的工具 </p>
+## <p align="center"> 可照著"今日應持有部位"交易 </p>
 
 #### <p align="center"> 資料由2010年開始計算到目前 </p>
 
