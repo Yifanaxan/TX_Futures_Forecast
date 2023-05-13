@@ -6,7 +6,8 @@
 # &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;  <span style="color: #7FFFD4;">$ $ $ &nbsp; </span> <span style="color: #00BFFF;"> **期貨多空趨勢預測** </span> <span style="color: #7FFFD4;">&nbsp; $ $ $</span>
   &nbsp; 
 
-
+# <p align="center"> <span style="color: #7FFFD4;">$ $ $ &nbsp; </span> </span> <span style="color: #00BFFF;"> **期貨多空趨勢預測** </span> <span style="color: #7FFFD4;">&nbsp; $ $ $ </span> 
+</p>
 
 ## 這是一個預測期貨走勢的工具
 
