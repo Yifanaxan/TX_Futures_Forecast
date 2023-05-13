@@ -27,24 +27,24 @@
 ## **操作步驟**
 
 
-## 1. 從下拉式選單選擇您想要交易的期貨商品
+## 👉 1. 從下拉式選單選擇您想要交易的期貨商品
 ![Alt text](images/futures.png)
 
 &nbsp; 
 
-## 2. 填入您所想要當作指標商品的股票代號
+## 👉 2. 填入您所想要當作指標商品的股票代號
 ![Alt text](images/stocks.png)
 
 &nbsp; 
 
-## 3. 填入您希望交易的期貨口數
+## 👉 3. 填入您希望交易的期貨口數
 ![Alt text](images/numContracts.png)
 ***
 
 &nbsp; 
 &nbsp; 
 
-## **協助工具**
+## **🔵 協助工具**
 
 ### -若不確定股票代號，可按下視窗中央的 [查詢股票代號]，依代碼或名稱查詢。
 ### -代碼和名稱不需輸入完整即可查詢
@@ -52,7 +52,7 @@
 
 &nbsp;
 
-## **選擇性輸入**
+## **🔵 選擇性輸入**
 
 ### 每個股票的權重預設為1，可調整為其他正整數
 ![Alt text](images/weights.png)
@@ -62,7 +62,7 @@
 &nbsp;
 &nbsp;
 
-## 按下&nbsp; <span style="color: #00CED1;">**_開始計算_**</span> &nbsp; 顯示結果
+## 😉 按下&nbsp; <span style="color: #00CED1;">**_開始計算_**</span> &nbsp; 顯示結果
 &emsp;
 
 ![Alt text](images/demo_0512.png)
@@ -92,7 +92,7 @@
 
 
 
-# <span style="color: #AFDCEC;">[**Yifan Lai**](https://github.com/Yifanaxan)</span>
+# <span style="color: #AFDCEC;">[**Yifan Lai**](https://github.com/Yifanaxan) 👻</span>
 
 &emsp;
 
@@ -103,4 +103,4 @@
 &emsp;
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; most importantly
-* # <span style="color: red;">[**Mr. Robert Hsu**](https://github.com/roberthsu2003/)</span>
+* # <span style="color: red;">[**Mr. Robert Hsu**](https://github.com/roberthsu2003/) 👨‍🏫 </span>
