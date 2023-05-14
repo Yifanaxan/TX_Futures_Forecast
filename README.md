@@ -16,6 +16,11 @@
 
 
 ***
+## <p align="center">🔵 交易邏輯 🔵</p>
+## <p align="center"> 權重高的股票若出現明顯的強(弱)勢，</p>
+## <p align="center">將帶動整體指數往上(下)走。</p>
+
+***
 
 ### <p align="center"><span style="color: #00CED1;">😈 投資都有風險，交易前請詳閱公開說明書!!! 😈</span></p>
 
