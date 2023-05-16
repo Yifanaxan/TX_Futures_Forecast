@@ -50,7 +50,7 @@ class Window(tk.Tk):
                 imageFrame = tk.Frame(fixLeftFrame)
                 imageFrame.pack(expand=True,fill=tk.BOTH,side=tk.TOP)
 
-                logoImage = Image.open('bullbear7.jpg')
+                logoImage = Image.open('image/bullbear7.jpg')
                 resizeImage = logoImage.resize((612,229),Image.LANCZOS)
                 self.logoTkimage = ImageTk.PhotoImage(resizeImage)
                 logoLabel = ttk.Label(imageFrame,image=self.logoTkimage)
@@ -670,12 +670,6 @@ class Window(tk.Tk):
                 else:
                         self.yesterdayPosition_msg = f"放空{abs(self.yesterdayPosition)}口"
                 print(self.yesterdayPosition_msg)
-
-
-
-
-
-
 
 
 def main():
