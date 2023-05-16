@@ -10,15 +10,9 @@
 
 
 ## <p align="center">👆 👇 這是一個預測期貨走勢的工具 👆 👇</p>
-## <p align="center"> 可照著"今日應持有部位"交易 </p>
+## <p align="center"> 可照著 🔵 今日應持有部位 🔵 交易 </p>
 
 #### <p align="center"> 資料由2010年開始計算到目前 </p>
-
-
-***
-## <p align="center">🔵 交易邏輯 🔵</p>
-### <p align="center"> 權重高的股票若出現明顯的強(弱)勢，將帶動整體指數往上(下)走。</p>
-### <p align="center"></p>
 
 ***
 
@@ -70,7 +64,7 @@
 ## 😉 按下&nbsp; <span style="color: #00CED1;">**_開始計算_**</span> &nbsp; 顯示結果
 &emsp;
 
-![Alt text](images/demo_0512.png)
+![Alt text](images/demo_0515.png)
 
 &emsp;
 ## **中間欄位:** 
