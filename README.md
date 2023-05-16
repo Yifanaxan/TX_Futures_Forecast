@@ -45,8 +45,8 @@
 
 ## **🔵 協助工具**
 
-### -若不確定股票代號，可按下視窗中央的 [查詢股票代號]，依代碼或名稱查詢。
-### -代碼和名稱不需輸入完整即可查詢
+### - 若不確定股票代號，可按下視窗中央的 [查詢股票代號]，依代碼或名稱查詢。
+### - 代碼和名稱不需輸入完整即可查詢
 ![Alt text](images/codeSearch.png)
 
 &nbsp;
@@ -61,7 +61,7 @@
 &nbsp;
 &nbsp;
 
-## 😉 按下&nbsp; <span style="color: #00CED1;">**_開始計算_**</span> &nbsp; 顯示結果
+## 👇 按下&nbsp; <span style="color: #00CED1;">**🧮開始計算🧮**</span> &nbsp; 顯示結果
 &emsp;
 
 ![Alt text](images/demo_0515.png)
